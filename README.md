@@ -1,5 +1,6 @@
 <!--
 README.md
+Copyright (c) 2022 Eric M. Chen
 
 Change History:
 2022-06-25/ec:  Initial release.
@@ -7,4 +8,4 @@ Change History:
 
 # Microcontrollers-etc
 
-Basic usage of microcontrollers and parts.
+Basic programming of microcontrollers and parts.
