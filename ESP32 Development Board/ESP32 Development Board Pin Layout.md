@@ -15,10 +15,10 @@ Microprocessor: ESP-WROOM-32
 |Name|Pin    |I2C|SPI      |Touch|ADC<sup>[4]</sup>/DAC|UART|Note|
 |----|-------|---|---------|-----|---------------------|----|----|
 |EN  |Enable
-|VP  |GPIO 36|   |         |     |ADC1 CH0|            |    |Sensor VP, Input only
-|VN  |GPIO 39|   |         |     |ADC1 CH3|            |    |Sensor VN, Input only
-|D34 |GPIO 34|   |         |     |ADC1 CH6|            |    |Input only
-|D35 |GPIO 35|   |         |     |ADC1 CH7|            |    |Input only
+|VP  |GPIO 36|   |         |     |ADC1 CH0             |    |Input only. Sensor VP
+|VN  |GPIO 39|   |         |     |ADC1 CH3             |    |Input only. Sensor VN
+|D34 |GPIO 34|   |         |     |ADC1 CH6             |    |Input only
+|D35 |GPIO 35|   |         |     |ADC1 CH7             |    |Input only
 |D32 |GPIO 32|   |         |9    |ADC1 CH4|
 |D33 |GPIO 33|   |         |8    |ADC1 CH5|
 |D25 |GPIO 25|   |         |     |ADC2 CH8/DAC1|
