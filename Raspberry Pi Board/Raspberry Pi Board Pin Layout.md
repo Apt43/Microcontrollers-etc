@@ -73,4 +73,5 @@ the board.
 
 ### Reference
 
-Raspberry Pi 4 Model B [datasheets.raspberrypi.com](https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf)
+- Raspberry Pi 4 Model B [datasheets.raspberrypi.com](https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf)
+- Raspberry Pi Pinout [pinout.xyz](https://pinout.xyz/)
