@@ -10,7 +10,7 @@ Change History:
 # libcamera for Raspberry Pi
 
 
-Quote from <a href="https://www.raspberrypi.com/documentation/accessories/camera.html"
+Quote from <a data-interception="off" href="https://www.raspberrypi.com/documentation/accessories/camera.html"
 target="_blank">Raspberry Pi Documentation</a>
 
 > Raspberry Pi is transitioning from a legacy camera software stack based on proprietary Broadcom GPU code to an open-source stack based on libcamera. Raspberry Pi OS images from Bullseye onwards will contain only the libcamera-based stack. Raspberry Pi OS images up to and including Buster will contain the legacy Raspicam stack, though the libcamera stack and applications can be installed using apt, or built by following the normal build instructions.
